@@ -1,0 +1,17 @@
+C:\Users\olivi\Desktop\C#\RepairRate\Reparation.exe
+C:\Users\olivi\Desktop\C#\RepairRate\Reparation.dll
+C:\Users\olivi\Desktop\C#\RepairRate\Reparation.deps.json
+C:\Users\olivi\Desktop\C#\RepairRate\Reparation.runtimeconfig.json
+C:\Users\olivi\Desktop\C#\RepairRate\Reparation.pdb
+C:\Users\olivi\Desktop\C#\RepairRate\Microsoft.Win32.SystemEvents.dll
+C:\Users\olivi\Desktop\C#\RepairRate\Newtonsoft.Json.dll
+C:\Users\olivi\Desktop\C#\RepairRate\System.Configuration.ConfigurationManager.dll
+C:\Users\olivi\Desktop\C#\RepairRate\System.Drawing.Common.dll
+C:\Users\olivi\Desktop\C#\RepairRate\System.Security.Cryptography.ProtectedData.dll
+C:\Users\olivi\Desktop\C#\RepairRate\System.Security.Permissions.dll
+C:\Users\olivi\Desktop\C#\RepairRate\System.Windows.Extensions.dll
+C:\Users\olivi\Desktop\C#\RepairRate\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olivi\Desktop\C#\RepairRate\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\olivi\Desktop\C#\RepairRate\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\olivi\Desktop\C#\RepairRate\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\olivi\Desktop\C#\RepairRate\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

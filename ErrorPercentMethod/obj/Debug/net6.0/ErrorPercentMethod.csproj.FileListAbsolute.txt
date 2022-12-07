@@ -1,0 +1,15 @@
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\bin\Debug\net6.0\ErrorPercentMethod.exe
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\bin\Debug\net6.0\ErrorPercentMethod.deps.json
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\bin\Debug\net6.0\ErrorPercentMethod.runtimeconfig.json
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\bin\Debug\net6.0\ErrorPercentMethod.dll
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\bin\Debug\net6.0\ErrorPercentMethod.pdb
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.AssemblyInfoInputs.cache
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.AssemblyInfo.cs
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.dll
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\refint\ErrorPercentMethod.dll
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.pdb
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ErrorPercentMethod.genruntimeconfig.cache
+C:\Users\standard\source\repos\ErrorPercentMethod\ErrorPercentMethod\obj\Debug\net6.0\ref\ErrorPercentMethod.dll
